@@ -1,0 +1,89 @@
+
+body { 
+    background-color: #EAF6F6;
+  }
+
+
+* {
+    box-sizing: border-box
+}
+
+.container {
+  width: 50%;
+  background-color: #ddd;
+}
+
+.skills {
+  text-align: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+}
+ 
+
+.BasicComputerSkill {width: 100%; background-color: #04AA6D;}
+.Internet {width: 100%; background-color: #04AA6D;}
+.html {width: 95%; background-color: #3BB9FF; }
+.Typingskill {width: 90%; background-color: #4EE2EC;}
+.js {width: 80%; background-color: #FFFF00;}
+.php {width: 75%; background-color: #59E817;}
+.Webdevelopingframeworks {width: 65%; background-color: #FFA500;}
+.ccc {width: 65%; background-color: #FFA500;}
+.Java {width: 65%; background-color: #FFA500;}
+.Python {width: 65%; background-color: #FFA500;}
+.VLSIdesign {width: 60%; background-color: #E55B3C;}
+.Androiddevelopmentframework {width: 50%; background-color: #FF6347;}
+.InterfacingwithMicrocontroller {width: 50%; background-color: #FF6347;}
+.Flutter {width: 50%; background-color: #FF6347;}
+
+hr { 
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    border-color: grey;
+    width: 10%;
+  } 
+
+.contact{
+    padding-left: 200px;
+
+  }
+
+.personalinformation {
+    padding-left: 200px;
+
+  }
+
+h1 {
+	color: black;
+}
+
+h2{
+	color: blue
+}
+.row{
+    width: 100%;
+    height: 250px;
+}
+.column{
+    width: 50%;
+    height: 50%;
+    background-color: white;
+    float: left;
+    font-size: 22px;
+}
+
+.LanguageTable {
+  border-collapse: collapse;
+  border-spacing: 1;
+  width: 100%;
+  border: 2px solid #ddd;
+}
+
+th, td {
+  text-align: left;
+  padding: 16px;
+}
+.ul { height:20px;
+
+}
